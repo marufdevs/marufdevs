@@ -227,3 +227,12 @@ Full-Stack Web Developer
 ⭐ If you find my projects useful, consider giving them a star!
 
 </div>
+
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufdevs&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
